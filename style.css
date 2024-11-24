@@ -1,0 +1,39 @@
+.btn-outline-success {
+    padding: 11px 25px;
+    margin-right: 10px;
+}
+
+.btn-outline-success{
+    background-color: white; 
+    color: black;
+}
+.btn-outline-success:hover {
+    background-color:white;
+    color: black;
+}
+
+.feature-text__links {
+    font-family: "Clarkson", Helvetica, sans-serif;
+    margin-top: 24px;
+}
+.feature-text__inner-wrapper{
+    display: flex;
+}
+.feature-text__paragraphs{
+    margin-left:270px ;
+}
+.list-group-item{
+    text-align: left;
+    border: 0.5px solid white;
+}
+.aa{
+    color: gray;
+}
+.list-group{
+    align-items: end;
+    margin-top: -160px;
+}
+.how-to-steps__child, .how-to-steps__steps-list{
+    display:inline-flex;
+
+}
